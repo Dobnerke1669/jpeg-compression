@@ -2,3 +2,4 @@
 
 # JPEG compression applcation made in OpenCV C++
 # Compression ratio is close to 1:10
+![alt text](https://github.com/Dobnerke1669/jpeg-compression/tree/master/Images/compressed.jpg?raw=true)
